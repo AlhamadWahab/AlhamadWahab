@@ -38,7 +38,6 @@
 ![FontAwesome](https://img.shields.io/badge/FontAwesome-339AF0.svg?style=for-the-badge&logo=font-awesome&logoColor=white)
 ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-6A5ACD.svg?style=for-the-badge&logo=sweetalert2&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0088FF.svg?style=for-the-badge&logo=framer&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white)
 ![JSON Server](https://img.shields.io/badge/JSON%20Server-2E7BB4.svg?style=for-the-badge&logo=json&logoColor=white)
 
 
