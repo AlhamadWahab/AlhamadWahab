@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Wahab 👋
 
 👩🏻‍💻 Software Devoloper <br/> 
-💭 Currently keep learning to be Full Stack Developer!<br/>
+💭 Currently learning to become a Full Stack Developer! <br/>
 
 # 💻 Tech Stack
 
