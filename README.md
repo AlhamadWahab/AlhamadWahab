@@ -35,7 +35,6 @@
 ![REST API](https://img.shields.io/badge/REST%20API-007ACC.svg?style=for-the-badge&logo=api&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91.svg?style=for-the-badge&logo=aspnet&logoColor=white)
 ![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-5C2D91.svg?style=for-the-badge&logo=aspnet&logoColor=white)
-![Scalar.AspNetCore](https://img.shields.io/badge/Scalar.AspNetCore-123456.svg?style=for-the-badge&logo=aspnet&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![JSON Server](https://img.shields.io/badge/JSON%20Server-2E7BB4.svg?style=for-the-badge&logo=json&logoColor=white)
 
@@ -44,7 +43,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-008CFF.svg?style=for-the-badge&logo=thunder-client&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E3.svg?style=for-the-badge&logo=axios&logoColor=white)
-![Fetch API](https://img.shields.io/badge/Fetch%20API-2E7BB4.svg?style=for-the-badge&logo=web&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
