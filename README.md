@@ -1,7 +1,7 @@
 ## Hi there, I'm Wahab 👋
 
-👩🏻‍💻 Software Devoloper, newly graduated software developer with a passion for learning and creating innovative software solutions.<br/> 
-💭 I am eager to become part of a dynamic team that supports my professional growth, allowing me to apply my knowledge in a real-world environment and further develop my technical skills. Currently learning to become a Full Stack Developer! <br/>
+👩🏻‍💻 Junior Software Developer.<br/> 
+💭 I am eager to become part of a dynamic team that supports my professional growth, allowing me to apply my knowledge in a real-world environment and further develop my technical skills.
 
 # 💻 Core Skills:
 
